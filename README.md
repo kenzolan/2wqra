@@ -2,7 +2,7 @@
 
 webmin
 _______________________________________________________________
-wget https://raw.githubusercontent.com/kenzolan/test/master/debian8.sh
+wget https://raw.githubusercontent.com/kenzolan/2wqra/master/debian7.sh
 
 chmod +x debian7.sh 
 
